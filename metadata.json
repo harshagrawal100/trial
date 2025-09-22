@@ -1,0 +1,5 @@
+{
+  "name": "BookBot",
+  "description": "A Gen Z-friendly chatbot app that helps users instantly find PDFs of books. The app features a playful, fast, and interactive design, with a conversational AI powered by Gemini.",
+  "requestFramePermissions": []
+}
